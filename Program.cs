@@ -10,6 +10,13 @@ void getAreaCircle (int rad ){
     }
 
 } 
+void getAreaCircle2 (int rad ){
+    double area = 2 * Math.PI * Math.Pow(rad, 5);
+    if (isValidCircle(area)){
+        log($"Площадь круга равна 123123213{area}");
+    }
+
+} 
 
 
 bool isValidCircle ( double area){
