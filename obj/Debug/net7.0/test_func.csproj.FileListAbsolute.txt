@@ -1,0 +1,15 @@
+D:\c#\test_func\bin\Debug\net7.0\test_func.exe
+D:\c#\test_func\bin\Debug\net7.0\test_func.deps.json
+D:\c#\test_func\bin\Debug\net7.0\test_func.runtimeconfig.json
+D:\c#\test_func\bin\Debug\net7.0\test_func.dll
+D:\c#\test_func\bin\Debug\net7.0\test_func.pdb
+D:\c#\test_func\obj\Debug\net7.0\test_func.csproj.AssemblyReference.cache
+D:\c#\test_func\obj\Debug\net7.0\test_func.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\test_func\obj\Debug\net7.0\test_func.AssemblyInfoInputs.cache
+D:\c#\test_func\obj\Debug\net7.0\test_func.AssemblyInfo.cs
+D:\c#\test_func\obj\Debug\net7.0\test_func.csproj.CoreCompileInputs.cache
+D:\c#\test_func\obj\Debug\net7.0\test_func.dll
+D:\c#\test_func\obj\Debug\net7.0\refint\test_func.dll
+D:\c#\test_func\obj\Debug\net7.0\test_func.pdb
+D:\c#\test_func\obj\Debug\net7.0\test_func.genruntimeconfig.cache
+D:\c#\test_func\obj\Debug\net7.0\ref\test_func.dll
